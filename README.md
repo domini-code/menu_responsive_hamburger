@@ -1,6 +1,4 @@
 # menu_responsive_hamburger
-https://t.co/Be6RnMpU99
-
 
 Que aprenderás al finalizar el curso, 
 - Menu responsive css3 html5 y JavaScript
